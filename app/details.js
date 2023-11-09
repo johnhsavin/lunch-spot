@@ -1,6 +1,7 @@
 import { useContext } from "react";
 import { Text, Box, Image, Heading } from "@gluestack-ui/themed";
 import { RestaurantContext } from "./_layout";
+import { Link } from "expo-router";
 
 export default function Details() {
 
